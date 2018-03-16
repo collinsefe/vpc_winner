@@ -1,4 +1,4 @@
-# tf-mod-vpc
+# VPC WINNER - this is a work in progress to create a multi-vpc, multi-az #infrastructure
 
 This module creates a VPC across availability zones with  public subnet and  private subnet in each availability zone, a NAT gateway in each public subnet and an internet gateway.
 
